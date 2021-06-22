@@ -93,7 +93,7 @@ Once your pull request is approved, merge your pull request. This will automatic
 
 Branch protection settings may block merging if your pull request does not meet certain requirements. For example, you need a certain number of approving reviews or an approving review from a specific team. For more information, see "[About protected branches](/github/administering-a-repository/about-protected-branches)."
 
-### Delete your branch
+## Delete your branch
 
 After you merge your pull request, delete your branch. This indicates that the work on the branch is complete and prevents you or others from accidentally using old branches. For more information, see "[Deleting and restoring branches in a pull request](/github/administering-a-repository/deleting-and-restoring-branches-in-a-pull-request)."
 
